@@ -10,9 +10,9 @@
 <br />
 <div>
     <p align="center">
-      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/mekka.gif" width="" height="" />
-      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="" height="" />
-      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/alaksha.gif" width="" height="" />
+      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/mekka.gif" width="33%" height="" />
+      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="33%" height="" />
+      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/alaksha.gif" width="33%" height="" />
     </p>
 
 </div>
