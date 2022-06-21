@@ -8,7 +8,9 @@
 <br />
 <br />
 <div>
-    <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="" height="" align="center"/>
+    <p align="center">
+      <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="" height="" />
+    </p>
 
 </div>
   
