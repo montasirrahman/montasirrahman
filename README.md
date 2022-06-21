@@ -8,8 +8,7 @@
 <br />
 <br />
 <div>
-    <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="" height="" style="display: block; margin: 0 auto;
-                                                                                                                    Width: 320;"/>
+    <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/namaj.gif" width="" height="" align="center"/>
 
 </div>
   
