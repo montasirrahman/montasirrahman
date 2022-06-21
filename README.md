@@ -8,6 +8,7 @@
 <br />
 <br />
 <div>
+    <iframe src="https://giphy.com/embed/12ihpr4WmwKJsQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/islam-12ihpr4WmwKJsQ">via GIPHY</a></p>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
