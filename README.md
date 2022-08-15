@@ -19,7 +19,7 @@
 
 <p align="center" style="height: 30px; background-color: #fff;">
   <a  href="https://www.buymeacoffee.com/montasir" align="center">
-    <img src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/coffee.png">
+    <img style="height: 30px; background-color: #fff;" src="https://github.com/montasirrahman/montasirrahman/blob/main/asset/coffee.png">
   </a>
 </p>
   
