@@ -17,5 +17,7 @@
 
 <br />
 
-<a  href="https://www.buymeacoffee.com/montasir" align="center">Buy me a coffee</a>
+<p align="center">
+  <a  href="https://www.buymeacoffee.com/montasir" align="center">Buy me a coffee</a>
+</p>
   
